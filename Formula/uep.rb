@@ -1,8 +1,8 @@
 class Uep < Formula
   desc "x/x: terminal security and maintenance toolkit for macOS"
   homepage "https://github.com/kemal-uep/x-x"
-  url "https://github.com/kemal-uep/x-x/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "bfa3da09c0388bca38a04490565eec0e69a1ab8fe07bb952c95175ae5e682406"
+  url "https://github.com/kemal-uep/x-x/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "afd34186d0af135dce238911228e5d45419378a8842860e0f400fc66af8a380a"
   license "MIT"
 
   depends_on "clamav"
